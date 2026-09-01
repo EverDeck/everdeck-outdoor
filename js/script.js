@@ -110,7 +110,7 @@
   /* ------------------------------------------------------------------ */
   /* Estimate form: Bootstrap validation styling + submission            */
   /* ------------------------------------------------------------------ */
-  var FORM_ENDPOINT = "YOUR_FORM_ENDPOINT_HERE"; // e.g. a Formspree endpoint: https://formspree.io/f/xxxxxxx
+  var FORM_ENDPOINT = "https://formspree.io/f/xnpqpnpb"; // e.g. a Formspree endpoint: https://formspree.io/f/xxxxxxx
 
   var form = document.getElementById("estimateForm");
   var submitBtn = document.getElementById("formSubmit");
